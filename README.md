@@ -15,15 +15,19 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/1517e0b64ebc4d73a1a8a613e74f0159">
+    </a>
+    <a href="https://www.loom.com/share/1517e0b64ebc4d73a1a8a613e74f0159">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1517e0b64ebc4d73a1a8a613e74f0159-1b61788503ae2432-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-The bggest challenge I faced in this fun exercise was getting used to XCode for the first time and locating where some of the buttons and controls were located.
+The biggest challenge I faced was getting the files to upload and make the gif. I am used to working with a code editor and git so this was different for me. The other challenge in this fun exercise was getting used to XCode for the first time and locating where some of the buttons and controls were located.
 
 ## License
 
